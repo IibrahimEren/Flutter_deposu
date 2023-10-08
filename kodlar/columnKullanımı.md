@@ -99,7 +99,7 @@ class benimUyg extends StatelessWidget {
   }
 }
 
+![Screenshot_1696761227](https://github.com/IibrahimEren/Flutter_deposu/assets/87008174/7fc66d0c-c4e3-43fe-9554-cdcff976b180)
 
-![Screenshot_1696760504](https://github.com/IibrahimEren/Flutter_deposu/assets/87008174/fc856d74-988c-433b-bb28-f5511261caa6)
 
 
