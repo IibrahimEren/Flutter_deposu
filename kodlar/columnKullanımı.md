@@ -46,7 +46,7 @@ class benimUyg extends StatelessWidget {
                   padding: const EdgeInsets.all(60),
 
                   // widget ile çevresi arasında boşluklar vermeye yarıyor
-                  margin: const EdgeInsets.all(60),
+                  margin: const EdgeInsets.all(80),
                   // burada da sadece içerisinde bulunan text'i döndürmek için
                   // tüm column'u widget içine almaktansa sadece text'i aldık
                   child: Transform(
@@ -67,7 +67,7 @@ class benimUyg extends StatelessWidget {
                   transform: Matrix4.rotationZ(-0.2),
                   child: Container(
                     width: 200,
-                    height: 200,
+                    height: 100,
                     alignment: Alignment.bottomRight,
                     decoration: BoxDecoration(
                       shape: BoxShape.rectangle,
